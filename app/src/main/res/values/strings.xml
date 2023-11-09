@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RetroVolley</string>
+
+    <string-array name="gender_array">
+        <item>Pria</item>
+        <item>Wanita</item>
+    </string-array>
+
+    <string-array name="religion_array">
+        <item>Islam</item>
+        <item>Kristen</item>
+        <item>Katolik</item>
+        <item>Hindu</item>
+        <item>Buddha</item>
+        <item>Lainnya</item>
+    </string-array>
+</resources>
